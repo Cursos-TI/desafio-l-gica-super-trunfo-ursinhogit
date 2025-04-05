@@ -15,14 +15,5 @@ populacao2 = 6748000;
 if (populacao1<populacao2);
 printf("populacao1 é menor que populacao2.\n");
 
-
-
-
-
-
-
-
-
-
-
+}
 }
